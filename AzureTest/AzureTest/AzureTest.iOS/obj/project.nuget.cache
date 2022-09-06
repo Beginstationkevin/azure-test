@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4Be5pPeZfUTs/Hh3CeLcC3XWdaViTnL4OTjLOQ5kyQ3uqHtFeE6h1+o4Js6y892u/YfNRjY8DUSpxygwpZoKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\Documents\\Internship\\Beginstation\\Projects\\AzureTest\\AzureTest\\AzureTest\\AzureTest.iOS\\AzureTest.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
